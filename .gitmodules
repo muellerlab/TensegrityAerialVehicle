@@ -1,0 +1,6 @@
+[submodule "TensegrityAerialVehicleCollisionSim"]
+	path = TensegrityAerialVehicleCollisionSim
+	url = git@github.com:muellerlab/TensegrityAerialVehicleCollisionSim.git
+[submodule "TensegrityAerialVehicleReorientation"]
+	path = TensegrityAerialVehicleReorientation
+	url = git@github.com:muellerlab/TensegrityAerialVehicleReorientation.git
