@@ -10,5 +10,7 @@ The detail of the tools is described in the paper "Design and control of a colli
 
 This work is evolved from our previous [IROS 2020 paper](https://ieeexplore.ieee.org/document/9341236).
 
+Video about this work can be accessed [here](https://youtu.be/XsLVRd2nMd0).
+
 Contact: Clark Zha (clark.zha@berkeley.edu)
 High Performance Robotics Lab, Dept. of Mechanical Engineering, UC Berkeley
