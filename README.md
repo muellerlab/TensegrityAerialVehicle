@@ -1,10 +1,10 @@
 # Tensegrity Aerial Vehicle
 
-This repository contains development and analysis tools as submodules. 
+This repository contains the development and analysis tools for tensegrity aerial vehicle as submodules. We recommend you to access each of the tools by clicking the links below, to ensure you get the latest version.
 
-Tensegrity Aerial Vehicle Collision Simulator(https://github.com/muellerlab/TensegrityAerialVehicleCollisionSim): This folder contains source code implementing dynamics simulation of a tensegrity aerial vehicle colliding with a flat obstacle, such as a concrete wall. The code can be used to verify the design of icosahedron protection shells protecting aerial vehicles in the form of quadcopters.
+Tensegrity Aerial Vehicle Collision Simulator(https://github.com/muellerlab/TensegrityAerialVehicleCollisionSim): This link contains source code implementing dynamics simulation of a tensegrity aerial vehicle colliding with a flat obstacle, such as a concrete wall. The code can be used to verify the design of icosahedron protection shells protecting aerial vehicles in the form of quadcopters.
 
-Tensegrity Aerial Vehicle Reorientation(https://github.com/muellerlab/TensegrityReorientation): This folder contains source code implementing the re-orientation feasibility analysis and route planning of a tensegrity aerial vehicle.
+Tensegrity Aerial Vehicle Reorientation(https://github.com/muellerlab/TensegrityReorientation): This link contains source code implementing the re-orientation feasibility analysis and route planning of a tensegrity aerial vehicle.
 
 The detail of the tools is described in the paper "Design and control of a collision-resilient aerial vehicle with an icosahedron tensegrity structure" submitted to  IEEE/ASME Transactions on Mechatronics (TMECH). A manuscript draft can be accessed [here](https://hiperlab.berkeley.edu/wp-content/uploads/2022/11/Design-and-control-of-a-collision-resilient-aerial-vehicle-with-an-icosahedron-tensegrity-structure.pdf). 
 
