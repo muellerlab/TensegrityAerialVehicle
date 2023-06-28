@@ -6,7 +6,11 @@ Tensegrity Aerial Vehicle Collision Simulator(https://github.com/muellerlab/Tens
 
 Tensegrity Aerial Vehicle Reorientation(https://github.com/muellerlab/TensegrityAerialVehicleReorientation): This link contains source code implementing the re-orientation feasibility analysis and route planning of a tensegrity aerial vehicle.
 
-The detail of the tools is described in the paper "Design and control of a collision-resilient aerial vehicle with an icosahedron tensegrity structure" submitted to  IEEE/ASME Transactions on Mechatronics (TMECH). A manuscript draft can be accessed [here](https://hiperlab.berkeley.edu/wp-content/uploads/2022/11/Design-and-control-of-a-collision-resilient-aerial-vehicle-with-an-icosahedron-tensegrity-structure.pdf). 
+The detail of the tools is described in the paper "Design and control of a collision-resilient aerial vehicle with an icosahedron tensegrity structure" submitted to  IEEE/ASME Transactions on Mechatronics (TMECH). A manuscript draft can be accessed [here](https://hiperlab.berkeley.edu/wp-content/uploads/2023/06/TensegrityAerialVehicle.pdf). 
+
+
+Contact: Clark Zha (clark.zha@berkeley.edu)
+High Performance Robotics Lab, Dept. of Mechanical Engineering, UC Berkeley
 
 This work is evolved from our previous [IROS 2020 paper](https://ieeexplore.ieee.org/document/9341236).
 
